@@ -1,1 +1,1 @@
-# word2vec
+A pure NumPy implementation of Word2Vec from scratch, using skip-gram with negative sampling. The repository includes the forward pass, loss gradients, and parameter updates and trains on a sample dataset. It also includes a cosine similarity test to see how embeddings relate to each other.
